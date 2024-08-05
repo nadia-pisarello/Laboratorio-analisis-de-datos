@@ -1,0 +1,23 @@
+{
+    "papa": {
+        "descripcion": "papa",
+        "estado": "pendiente",
+        "fecha_creacion": "03/08/2024"
+    },
+    "pago cel": {
+        "descripcion": "pago cel",
+        "estado": "pendiente",
+        "fecha_tope": "05/05/2024",
+        "frecuencia": "mensu"
+    },
+    "hola mundo": {
+        "descripcion": "verificando",
+        "estado": "en progreso",
+        "fecha_creacion": "03/08/2024"
+    },
+    "prueba": {
+        "descripcion": "prueba",
+        "estado": "pendiente",
+        "fecha_creacion": "05/08/2024"
+    }
+}
